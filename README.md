@@ -29,5 +29,11 @@ This is a Course Management System developed using ASP.NET Web Forms and SQL Ser
 2. Update SQL connection string if required
 3. Run the project using IIS Express
 
+
+## Notes
+- Make sure to update the SQL Server connection string in Web.config if you run this on a different SQL instance.
+- Create the Applications table using the provided SQL script.
+
+
 ## Author
 Darshan Thengal
